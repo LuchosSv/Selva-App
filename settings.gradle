@@ -1,0 +1,2 @@
+rootProject.name='Selva App'
+include ':app'
